@@ -1,0 +1,40 @@
+.container {
+  justify-items: center;
+  font-family: "Arial", sans-serif;
+}
+.inner_container {
+  max-width: 900px;
+  width: 100%;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+}
+.inner_container h1 {
+  font-size: 30px;
+  font-weight: bold;
+  align-self: center;
+  text-align: center;
+  color: #516cf0;
+  margin-bottom: 20px;
+  font-family: "Arial", sans-serif;
+}
+.sub_title h2 {
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Arial", sans-serif;
+}
+.sub_title p {
+  font-size: 20px;
+  margin: 5px;
+  font-family: "Arial", sans-serif;
+}
+.lists {
+  padding-left: 30px;
+  font-family: "Arial", sans-serif;
+}
+.lists li {
+  list-style: none;
+  font-family: "Arial", sans-serif;
+}
